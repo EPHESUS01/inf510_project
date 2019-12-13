@@ -1,0 +1,987 @@
+location_name,locationtype,geolat,geolong,zip
+Venice Beach,Beaches,33.985013,-118.474064,90291
+Cabrillo Beach,Beaches,33.711229,-118.283406,90731
+Griffith Park Boys Camp,Camps,34.139017,-118.298335,90027
+Otis Wallace Children's Campground,Camps,34.26571,-118.3955,91342
+Griffith Park - Hollywoodland Girls Camp,Camps,34.125465,-118.314396,90068
+Camp Seely,Camps,34.253866,-117.302884,92325
+Hermon / Arroyo Seco Dog Park,Dog Parks,34.107407,-118.185319,90042
+Runyon Canyon Dog Park,Dog Parks,34.10530646,-118.3488732,90046
+Westminster Dog Park,Dog Parks,33.990323,-118.473283,90291
+Griffith Park Dog Park,Dog Parks,34.155503,-118.286021,90027
+Laurel Canyon Dog Park,Dog Parks,34.122195,-118.378066,90046
+Sepulveda Basin Dog Park,Dog Parks,34.185944,-118.515152,91406
+Silver Lake Dog Park,Dog Parks,34.092198,-118.264594,90026
+Whitnall Dog Park,Dog Parks,34.1760477,-118.3624611,91601
+Barrington Dog Park,Dog Parks,34.062494,-118.467569,90049
+L.A. Equestrian Center,Equestrian Centers,34.160704,-118.310131,91506
+Stetson Ranch Park,Equestrian Centers,34.324324,-118.477802,91342
+Hansen Dam - Gabrielino Equestrian Center,Equestrian Centers,34.271,-118.368743,91342
+Aliso Canyon Park Equestrian Center,Equestrian Centers,34.27891,-118.526823,91326
+Griffith Observatory,Free Wi-Fi Hot Spots,34.118429,-118.300374,90027
+Reseda Recreation Center,Free Wi-Fi Hot Spots,34.186871,-118.533699,91335
+Echo Park Recreation Center,Free Wi-Fi Hot Spots,34.069801,-118.260119,90026
+Cabrillo Beach,Free Wi-Fi Hot Spots,33.711229,-118.283406,90731
+Pershing Square,Free Wi-Fi Hot Spots,34.04856,-118.25348,90012
+Venice Beach Recreation Area,Free Wi-Fi Hot Spots,33.985826,-118.472771,90291
+Drew St,Gardens,34.119958,-118.242682,90065
+El Sereno Community Garden,Gardens,34.092346,-118.161574,90032
+Solano Canyon Community Garden,Gardens,34.075292,-118.231559,90012
+Sepulveda Garden Center,Gardens,34.165368,-118.495504,91406
+Watts Rose Garden,Gardens,33.94576539,-118.2439527,90002
+Ocean View Farms Community Garden,Gardens,34.014234,-118.441219,90066
+Brand Park Memory Garden,Gardens,34.2724,-118.46206,91345
+Orcutt Ranch Horticultural Center & Community Garden,Gardens,34.21892526,-118.6410835,91304
+Rose Hill Park Community Garden,Gardens,34.090977,-118.193047,90032
+Exposition Park Rose Garden,Gardens,34.017727,-118.286074,90037
+Rancho Park 3-Par Golf Course,Golf Courses,34.04737,-118.414689,90064
+Tregnan Golf Academy,Golf Courses,34.121156,-118.275261,90027
+Hansen Dam Golf Course,Golf Courses,34.258801,-118.395868,91331
+Harbor Park Golf Course,Golf Courses,33.787333,-118.282907,90744
+Harding Golf Course,Golf Courses,34.144505,-118.289258,90027
+Penmar Golf Course,Golf Courses,34.00644708,-118.4583439,90291
+Encino 18-Hole Golf Course,Golf Courses,34.169876,-118.497232,91436
+Los Feliz 3-Par Golf Course,Golf Courses,34.12330116,-118.269339,90039
+Rancho Park 18-Hole Golf Course,Golf Courses,34.045022,-118.418289,90064
+Roosevelt 9-Hole Golf Course,Golf Courses,34.118472,-118.29388,90027
+Woodley Lakes Golf Course,Golf Courses,34.183969,-118.491937,91406
+Balboa 18-Hole Golf Course,Golf Courses,34.170607,-118.497806,91436
+Armand Hammer / Holmby Pitch and Putt Golf Course,Golf Courses,34.07294331,-118.4293956,90024
+Golf Reservations--All Courses,Golf Courses,34.13325553,-118.2728568,90039
+Wilson Golf Course,Golf Courses,34.143758,-118.289517,90027
+Limekiln Canyon Park,Hiking Trails,34.284817,-118.563025,91326
+Aliso Canyon Park,Hiking Trails,34.27891,-118.526823,91326
+Jim Gilliam Park,Hiking Trails,34.011922,-118.351674,90008
+Ernest E. Debs Regional Park,Hiking Trails,34.095367,-118.190495,90032
+Griffith Park,Hiking Trails,34.1182,-118.272105,90027
+Runyon Canyon Park,Hiking Trails,34.10530646,-118.3488732,90046
+North Hollywood Park,Hiking Trails,34.1679113,-118.3798722,91601
+Van Nuys  Sherman Oaks Recreation Center,Hiking Trails,34.15952933,-118.4425227,91423
+Chatsworth Park South,Hiking Trails,34.260329,-118.616081,91311
+Hansen Dam Park,Hiking Trails,34.273758,-118.383484,91342
+O'Melveny Park,Hiking Trails,34.31333,-118.518577,91344
+Lake Balboa,Hiking Trails,34.181624,-118.500922,91316
+Peck Park,Hiking Trails,33.74779038,-118.3091125,90732
+Elysian Park,Hiking Trails,34.079411,-118.235668,90012
+Echo Park Lake,Lakes,34.07240833,-118.2600257,90026
+Hollenbeck Lake,Lakes,34.04136456,-118.2160944,90033
+Lincoln Park Lake,Lakes,34.065824,-118.198986,90031
+MacArthur Park Lake,Lakes,34.058107,-118.276802,90057
+Ernest E. Debs Lake,Lakes,34.091471,-118.193514,90032
+Reseda Park Lake,Lakes,34.186771,-118.533703,91335
+Ken Malloy Harbor Regional Lake,Lakes,33.787619,-118.29502,90710
+Banning Residence Museum,Museums,33.789925,-118.258813,90744
+Campo de Cahuenga,Museums,34.139806,-118.362314,91604
+Drum Barracks Civil War Museum,Museums,33.784702,-118.258156,90744
+Griffith Park - Travel Town Museum,Museums,34.153834,-118.308641,90027
+Griffith Park - Autry Museum of Western Heritage,Museums,34.148715,-118.282023,90027
+Heritage Square Museum,Museums,34.088502,-118.208039,90031
+Los Angeles Maritime Museum,Museums,33.738796,-118.278879,90731
+El Pueblo de Los Angeles (Olvera Street),Museums,34.056616,-118.238786,90012
+Bolton Hall Historical Museum,Museums,34.252605,-118.288271,91042
+Griffith Park - Ferndell Nature Museum / Gardens,Museums,34.112664,-118.307353,90027
+Fort MacArthur Museum,Museums,33.712199,-118.296098,90731
+Minnie Hill Palmer House / Homestead Acre,Museums,34.25966916,-118.6149602,91311
+Griffith Observatory,Museums,34.118429,-118.300374,90027
+Point Fermin Lighthouse Museum,Museums,33.705524,-118.29368,90731
+Cabrillo Marine Aquarium,Museums,33.711251,-118.285293,90731
+Cahuenga Peak,Open Space,34.134173,-118.334606,90068
+Gage and Avalon Pocket Park,Outdoor Fitness Equipment,33.982212,-118.265352,90003
+105th Street Pocket Park,Outdoor Fitness Equipment,33.940919,-118.285253,90044
+Saint Andrews Recreation Center,Outdoor Fitness Equipment,33.95882144,-118.3112791,90047
+Glassell Park,Outdoor Fitness Equipment,34.11673874,-118.2331726,90065
+Gladys Jean Wesson Park,Outdoor Fitness Equipment,34.033847,-118.340309,90016
+Watts Community Park,Outdoor Fitness Equipment,33.932023,-118.240098,90059
+Studio City Park (Beeman Park),Outdoor Fitness Equipment,34.15137297,-118.4079843,91604
+Kagel Canyon Park,Outdoor Fitness Equipment,34.28069157,-118.3804559,91342
+Holleigh Bernson Memorial Park,Outdoor Fitness Equipment,34.293003,-118.571202,91326
+6th & Gladys Street Park,Outdoor Fitness Equipment,34.04032,-118.242479,90021
+Westside Neighborhood Park,Outdoor Fitness Equipment,34.029093,-118.36998,90016
+Seily Rodriguez Park,Outdoor Fitness Equipment,34.092917,-118.313975,90038
+Evergreen Recreation Center,Outdoor Fitness Equipment,34.038954,-118.203476,90033
+North Hollywood Park,Outdoor Fitness Equipment,34.1679113,-118.3798722,91601
+North East Valley Multipurpose Center,Outdoor Fitness Equipment,34.276262,-118.413154,91331
+Tiara Street Park,Outdoor Fitness Equipment,34.178441,-118.382361,91601
+West Adams Heights Park,Outdoor Fitness Equipment,34.03883,-118.300475,90007
+Hollenbeck Park,Outdoor Fitness Equipment,34.04136456,-118.2160944,90033
+Hoover Recreation Center,Outdoor Fitness Equipment,34.03273559,-118.2830944,90007
+Wilmington Recreation Center,Outdoor Fitness Equipment,33.77313982,-118.2686791,90744
+Fox & Laurel Park,Outdoor Fitness Equipment,34.271638,-118.446271,91340
+MacArthur Park,Outdoor Fitness Equipment,34.06035058,-118.2770864,90057
+Lemon Grove Park,Outdoor Fitness Equipment,34.08634611,-118.3046676,90029
+Van Ness Park,Outdoor Fitness Equipment,33.99082417,-118.319119,90043
+Hermon / Arroyo Seco Park,Outdoor Fitness Equipment,34.104402,-118.187327,90042
+Trinity Park,Outdoor Fitness Equipment,34.02385032,-118.2634554,90011
+4600 Orchard Ave Pocket Park,Outdoor Fitness Equipment,34.001558,-118.288625,90037
+South Park,Outdoor Fitness Equipment,33.99664406,-118.268573,90011
+Griffith Park - Park Center,Outdoor Fitness Equipment,34.134213,-118.282994,90027
+State Street Recreation Center,Outdoor Fitness Equipment,34.053064,-118.212879,90033
+Gilbert W. Lindsay Recreation Center,Outdoor Fitness Equipment,34.00661929,-118.2677641,90011
+Eagle Rock Park,Outdoor Fitness Equipment,34.142988,-118.18805,90041
+Sycamore Grove Park,Outdoor Fitness Equipment,34.1019,-118.202996,90042
+Woodbridge Park,Outdoor Fitness Equipment,34.15021183,-118.3764461,91602
+Leland Park,Outdoor Fitness Equipment,33.75092412,-118.2959786,90731
+Algin Sutton Recreation Center,Outdoor Fitness Equipment,33.957778,-118.285546,90044
+Valley Plaza Park,Outdoor Fitness Equipment,34.192008,-118.400894,91606
+Poinsettia Park,Outdoor Fitness Equipment,34.08722019,-118.3502662,90046
+Balboa Park,Outdoor Fitness Equipment,34.172985,-118.501841,91316
+4916 S. McKinley Avenue Pocket Park,Outdoor Fitness Equipment,33.998755,-118.260624,90011
+Woodley Avenue Park,Outdoor Fitness Equipment,34.18196,-118.483681,91436
+Lincoln Park,Outdoor Fitness Equipment,34.06561417,-118.2018369,90031
+York Boulevard Pocket Park,Outdoor Fitness Equipment,34.121388,-118.207218,90042
+Drum Barracks Civil War Museum,Outdoor Fitness Equipment,33.784702,-118.258156,90744
+Lou Costello (Hostetter) Park,Outdoor Fitness Equipment,34.02048437,-118.2108829,90023
+Studio City Recreation Center (Beeman Park),Outdoor Fitness Equipment,34.15137297,-118.4079843,91604
+76th Street Pocket Park,Outdoor Fitness Equipment,33.971023,-118.288267,90044
+James Slauson Recreation Center,Outdoor Fitness Equipment,33.994156,-118.247682,90011
+Wall Street Community Park,Outdoor Fitness Equipment,33.959532,-118.271566,90003
+Norman O. Houston Park,Outdoor Fitness Equipment,33.998907,-118.357772,90008
+Garvanza Park,Outdoor Fitness Equipment,34.12007,-118.179944,90042
+61st Street Pocket Park,Outdoor Fitness Equipment,33.984504,-118.272468,90003
+Pan Pacific Park,Outdoor Fitness Equipment,34.07487935,-118.3549473,90036
+Dorothy J. and Benjamin B. Smith Park,Outdoor Fitness Equipment,34.10399621,-118.3428203,90028
+Toberman Recreation Center,Outdoor Fitness Equipment,34.03912821,-118.2787516,90015
+El Sereno Arroyo Playground,Outdoor Fitness Equipment,34.07980496,-118.1618492,90032
+97th Street Pocket Park,Outdoor Fitness Equipment,33.948036,-118.2847,90010
+Fred Roberts Recreation Center,Outdoor Fitness Equipment,34.000886,-118.24401,90011
+Van Nuys  Sherman Oaks Recreation Center,Outdoor Fitness Equipment,34.15952933,-118.4425227,91423
+Culver Slauson Park,Outdoor Fitness Equipment,33.993614,-118.406907,90230
+El Sereno North Park,Outdoor Fitness Equipment,34.097182,-118.16843,90032
+Benny H. Potter West Adams Avenues Memorial Park,Outdoor Fitness Equipment,34.035039,-118.318677,90018
+Amistad Park,Outdoor Fitness Equipment,34.253043,-118.418134,91331
+Julian C. Dixon Ave. Park / 48th Street Park,Outdoor Fitness Equipment,33.99941769,-118.2869822,90037
+Mar Vista Park,Outdoor Fitness Equipment,34.01785493,-118.4294632,90066
+Shatto Park,Outdoor Fitness Equipment,34.067287,-118.289251,90020
+Harbor Highlands Park,Outdoor Fitness Equipment,33.75780373,-118.2966521,90731
+La Mirada Park Acquisition Site,Parks,34.094208,-118.306999,90029
+Avalon-San Pedro Park,Parks,34.010389,-118.265542,90011
+Amistad Park,Parks,34.253043,-118.418134,91331
+11th Avenue Park,Parks,33.984488,-118.329232,90043
+Wilmington Veterans Park,Parks,33.785755,-118.248009,90744
+Winnetka Park,Parks,34.222383,-118.571596,91306
+Barry A. Sanders Sports Field,Parks,34.186672,-118.50107,91316
+Imperial Courts Park,Parks,33.93125654,-118.2324199,90059
+Chase Park,Parks,34.222783,-118.617596,91304
+Eagle Rock Hillside Park,Parks,34.149007,-118.202226,90041
+Griffith Park - Shane's Inspiration Park,Parks,34.135083,-118.284647,90027
+Mae Boyar Park,Parks,34.19575619,-118.6469636,91307
+Seily Rodriguez Park,Parks,34.092917,-118.313975,90038
+Elysian Park -  Avenue of the Palms,Parks,34.079493,-118.249133,90012
+Villa Cabrini Park,Parks,34.215329,-118.338525,91504
+Watts Community Park,Parks,33.932023,-118.240098,90059
+Julian C. Dixon Ave. Park / 48th Street Park,Parks,33.99941769,-118.2869822,90037
+Aliso Canyon Park,Parks,34.27891,-118.526823,91326
+Castle Peak Park,Parks,34.20777332,-118.6528355,91304
+Glassell Park,Parks,34.11673874,-118.2331726,90065
+Echo Park,Parks,34.07012683,-118.2608082,90026
+Fred Roberts Park,Parks,34.00087496,-118.2439885,90011
+Andres Pico Adobe Park,Parks,34.26854067,-118.4666357,91345
+San Pasqual Park,Parks,34.11981,-118.17014,90042
+Lilac Terrace Park,Parks,34.080151,-118.249395,90012
+Wabash Park,Parks,34.05070789,-118.1981928,90033
+White Point Nature Preserve & Education Center,Parks,33.716114,-118.315303,90731
+Browns Creek Park,Parks,34.288031,-118.588165,91311
+Griffith Park - Pony & Train Rides,Parks,34.117654,-118.27198,90027
+Lake View Terrace Park,Parks,34.27465645,-118.3715831,91342
+Sepulveda Basin Wildlife Reserve,Parks,34.178515,-118.474043,91406
+Viking Park,Parks,34.27995,-118.545154,91326
+Valley Plaza Park,Parks,34.192008,-118.400894,91606
+Triangle Park (Marr Park),Parks,33.987518,-118.456343,90291
+Sullivan Canyon Park,Parks,34.073715,-118.509023,90049
+Roscoe-Valley Circle Park,Parks,34.219649,-118.648127,91304
+Victory - Vineland Park,Parks,34.186926,-118.3727,91606
+Pan Pacific Park,Parks,34.07487935,-118.3549473,90036
+76th Street Pocket Park,Parks,33.971023,-118.288267,90044
+El Sereno Arroyo Playground,Parks,34.07980496,-118.1618492,90032
+Bellaire Avenue Park,Parks,34.21561,-118.412666,91605
+Evergreen Park,Parks,34.03913003,-118.2045264,90033
+Rivas Canyon Park,Parks,34.051771,-118.516387,90272
+Verdugo Mountain Park,Parks,34.220172,-118.348827,91352
+Westwood Park,Parks,34.053257,-118.448297,90025
+Griffith Park - Pollywog Area,Parks,34.156427,-118.317609,91506
+Mcgroarty Cultural Art Center,Parks,34.250876,-118.297399,91042
+Van Nuys Sherman Oaks Park,Parks,34.15952933,-118.4425227,91423
+Everett Triangle Park,Parks,34.070201,-118.248722,90026
+Griffith Park - Easter Field,Parks,34.15857872,-118.3029327,90027
+Pan Pacific Park - Renee's Place,Parks,34.07487935,-118.3549473,90036
+Whitsett Fields Park,Parks,34.198513,-118.404992,91606
+De Neve Square Park,Parks,34.08425,-118.43496,90077
+Mandeville Canyon Park,Parks,34.085468,-118.509006,90049
+Van Nuys Park,Parks,34.19405925,-118.4446325,91405
+East Los Angeles Park,Parks,34.07714,-118.20731,90031
+Valley Glen Community Park,Parks,34.182953,-118.418285,91436
+Libbit Park,Parks,34.16248827,-118.4880815,91436
+Bellevue Park,Parks,34.084016,-118.283446,90026
+Glenhurst Park,Parks,34.110233,-118.252805,90039
+Robert F. Kennedy Inspiration Park,Parks,34.06173,-118.297572,90010
+East Wilmington Vest Pocket Park,Parks,33.79253,-118.248116,90744
+Reynier Park,Parks,34.03563676,-118.3861321,90035
+Vanalden Park,Parks,34.233207,-118.547435,91324
+North Hollywood Park / Dave Potell Memorial Sports Facility,Parks,34.165107,-118.381644,91601
+Lincoln Park,Parks,34.06561417,-118.2018369,90031
+Wilmington Town Square Park,Parks,33.780997,-118.261862,90744
+Barrington Park,Parks,34.06137723,-118.4686951,90049
+Seoul International Park,Parks,34.05435479,-118.3016258,90006
+Laurel Canyon Park,Parks,34.122205,-118.37808,90046
+Hartland Mini Park,Parks,34.194811,-118.430887,91405
+Corbin Canyon Park,Parks,34.157327,-118.563498,91356
+Sunnynook River Park,Parks,34.113439,-118.268482,90027
+Ramon D. Garcia Park,Parks,34.027589,-118.206397,90023
+Delano Park,Parks,34.18280315,-118.4621585,91411
+Yucca Park,Parks,34.10331572,-118.3355345,90028
+Crestwood Hills Park,Parks,34.07661042,-118.4889191,90049
+Holmby Park,Parks,34.07294331,-118.4293956,90024
+Serrania Avenue Park,Parks,34.15751,-118.585927,91364
+Culver Slauson Park,Parks,33.993614,-118.406907,90230
+Griffith Park - Bronson Canyon,Parks,34.127171,-118.31077,90068
+Hazard Park,Parks,34.06067723,-118.2008547,90033
+Sylmar Park,Parks,34.30827253,-118.4445011,91342
+Greayer's Oak Mini Park,Parks,34.09023935,-118.2124151,90065
+Briarwood Park,Parks,34.119035,-118.443947,90077
+Media Park,Parks,34.02647,-118.39306,90232
+De Longpre Park,Parks,34.095934,-118.334692,90028
+Vista Hermosa Park,Parks,34.06195635,-118.2582994,90026
+Encino Park,Parks,34.15982855,-118.5025721,91316
+Del Rey Lagoon,Parks,33.96011416,-118.4499221,90293
+Jim Gilliam Park,Parks,34.011922,-118.351674,90008
+Chevy Chase Park,Parks,34.133531,-118.2667127,90039
+John S. Gibson Jr. Park,Parks,33.739653,-118.279649,90731
+Runnymede Park,Parks,34.20585859,-118.5732396,91306
+Elysian Park - Montecillo De Leo Politi,Parks,34.078382,-118.246633,90012
+Eagle Rock Park,Parks,34.142988,-118.18805,90041
+Woodland Hills Park (Shoup Park),Parks,34.175927,118.614495,91367
+Limekiln Canyon Park,Parks,34.284817,-118.563025,91326
+Yosemite Park,Parks,34.133742,-118.20819,90041
+Chesterfield Square Park,Parks,33.99308909,-118.3129281,90062
+David M. Gonzales / Pacoima Park,Parks,34.26921299,-118.4130658,91331
+Tarzana Park,Parks,34.17462734,-118.5502669,91356
+111th Place Pocket Park,Parks,33.934202,-118.271246,90061
+Kagel Canyon Park,Parks,34.28069157,-118.3804559,91342
+Palisades Park,Parks,34.042845,-118.524815,90272
+Warner Ranch Park,Parks,34.17549801,-118.6056172,91367
+Circle / Gramercy Park,Parks,33.970976,-118.313323,90047
+Harbor Sports Center,Parks,33.78742375,-118.2819333,90744
+Gaffey Street Field of Dreams,Parks,33.763701,-118.290965,90731
+Rancho Cienega Park,Parks,34.02167021,-118.351823,90016
+Jesse Owens Mini Park,Parks,34.199824,-118.518445,91406
+Denker and Torrance Pocket Park,Parks,33.84162,-118.303546,90501
+Hope and Peace Park,Parks,34.05276205,-118.2764751,90057
+Queen Anne Park,Parks,34.0507319,-118.33286,90016
+Harbor Highlands Park,Parks,33.75780373,-118.2966521,90731
+Penmar Park,Parks,34.00618864,-118.455831,90291
+Fulton Avenue Park,Parks,34.194264,-118.422318,91605
+North Weddington Park,Parks,34.145564,-118.366144,91602
+Griffith Park Visitor Center Auditorium,Parks,34.132522,-118.280284,90027
+Jackie Tatum / Harvard Park,Parks,33.98334823,-118.303593,90047
+South Victoria Ave Park,Parks,33.979427,-118.332474,90043
+William Nickerson Gardens Park,Parks,33.932182,-118.246727,90059
+Benny H. Potter West Adams Avenues Memorial Park,Parks,34.035039,-118.318677,90018
+Irving Schachter Park,Parks,34.040044,-118.398926,90064
+Greayer's Oak Park,Parks,34.09059,-118.212182,90065
+Griffith Park - Old Zoo Picnic Area,Parks,34.135456,-118.286337,90027
+Hollywood Park,Parks,34.09132457,-118.3297572,90038
+Watts Cultural Crescent,Parks,33.940048,-118.242452,90059
+4600 Orchard Ave Pocket Park,Parks,34.001558,-118.288625,90037
+Westside Neighborhood Park,Parks,34.029093,-118.36998,90016
+Telfair Park (Valleycrest Park),Parks,34.304228,-118.472861,91342
+Grigsby Pocket Park,Parks,33.930249,-118.240227,90059
+Cypress Park Library,Parks,34.091029,-118.22264,90065
+Westwood Gardens Park,Parks,34.057518,-118.441597,90024
+97th Street Pocket Park,Parks,33.948036,-118.2847,90010
+Lake Street Park,Parks,34.06874703,-118.270384,90057
+6th & Gladys Street Park,Parks,34.04032,-118.242479,90021
+Lanark/Shelby Mini-Park,Parks,34.135325,-118.187511,90041
+Mount Carmel Park,Parks,33.97624967,-118.2884111,90044
+Rena Park,Parks,33.7476902,-118.3010596,90732
+Santa Ynez Canyon Park,Parks,34.071875,-118.567409,90272
+Palms Park,Parks,34.03286932,-118.4177271,90064
+Denker Park,Parks,34.02355276,-118.3045149,90018
+Unidad Park,Parks,34.063995,-118.264551,90026
+Chatsworth Oaks Park,Parks,34.23993,-118.629054,91311
+Via Dolce Park,Parks,33.978686,-118.462029,90292
+Chatsworth Park South,Parks,34.260329,-118.616081,91311
+Westwood Park - Aidan's Place,Parks,34.052676,-118.448107,90025
+Palisades-Asilomar Park,Parks,34.03984,-118.536183,90272
+Fox & Laurel Park,Parks,34.271638,-118.446271,91340
+Oro Vista Park,Parks,34.270889,-118.315929,91040
+Club Circle Park,Parks,34.038907,-118.402029,90043
+Griffith Park - Ceta Forest,Parks,34.155128,-118.30145,90027
+Genesee Avenue Park,Parks,34.03688,-118.36858,90016
+Beverly Glen Park,Parks,34.11474,-118.44381,90077
+Sycamore Grove Park,Parks,34.1019,-118.202996,90042
+Harold A. Henry Park,Parks,34.057644,-118.32489,90016
+Pico Union Park,Parks,34.04106831,-118.2842068,90006
+Parthenia Park,Parks,34.2280404,-118.5992153,91304
+Normandale Park,Parks,33.82313579,-118.301425,90501
+LAPD SWAT Officer Randal D. Simmons Park,Parks,34.19276974,-118.5448566,91335
+El Paseo De Cahuenga Park,Parks,34.13059,-118.349673,90068
+Griffith Park Crystal Springs,Parks,34.133005,-118.280751,90027
+Gage and Avalon Pocket Park,Parks,33.982212,-118.265352,90003
+Marson Park,Parks,34.215494,-118.465863,91402
+Cheviot Hills Park,Parks,34.046898,-118.408263,90064
+Northridge Park,Parks,34.25529,-118.53226,91324
+Little Green Acres Park,Parks,33.94164,-118.2914,90044
+West Hills Sports Center,Parks,34.198488,-118.656697,91307
+Mason Park,Parks,34.26093639,-118.5796615,91311
+Kittridge Mini-Park,Parks,34.19029764,-118.4258369,91405
+Selma Park,Parks,34.09985676,-118.3331657,90028
+Strathern Park North,Parks,34.216954,-118.406176,91605
+Tobias Avenue Park,Parks,34.23634,-118.45151,91402
+Augustus F. Hawkins Natural Park,Parks,33.990292,-118.247712,90011
+Trinity Park,Parks,34.02385032,-118.2634554,90011
+Angels Gate Park,Parks,33.709707,-118.293817,90731
+Balboa Park,Parks,34.172985,-118.501841,91316
+Knapp Ranch Park,Parks,34.189237,-118.658999,91307
+Leimert Plaza Park,Parks,34.003937,-118.330564,90008
+Woodbine Park,Parks,34.02800986,-118.4084365,90034
+Leland Park,Parks,33.75092412,-118.2959786,90731
+Loren Miller Park,Parks,34.03026082,-118.3030305,90018
+Ernest E. Debs Regional Park,Parks,34.095367,-118.190495,90032
+Stoney Point Park,Parks,34.273536,-118.602406,91311
+Venice of America Centennial Park,Parks,33.98849,-118.46368,90291
+Mecca Avenue Park,Parks,34.16711361,-118.5373921,91356
+Deervale-Stone Canyon Park,Parks,34.14683821,-118.4592084,91403
+Fernangeles Park,Parks,34.229345,-118.400978,91352
+Granada Hills Park,Parks,34.2645807,-118.4969059,91344
+Poinsettia Park,Parks,34.08722019,-118.3502662,90046
+Four Oaks Park,Parks,34.205956,-118.635194,91307
+Encino Glen,Parks,34.172588,-118.499743,91436
+Cleland Avenue Bicentennial Park,Parks,34.11331,-118.212598,90042
+El Sereno Park,Parks,34.075723,-118.181788,90032
+Rustic Canyon Rec Center Park,Parks,34.040813,-118.514199,90402
+Laurel and Hardy Park,Parks,34.082498,-118.274851,90027
+Lookout Point Park,Parks,33.712435,-118.292025,90731
+De Garmo Park,Parks,34.214719,-118.352383,91352
+Jaime Beth Slavin Park,Parks,34.215402,-118.407169,91605
+Eddleston Park,Parks,34.2872694,-118.5381306,91326
+Howard Finn Park & Community Garden,Parks,34.257932,-118.30072,91402
+Circle Park (5th Ave.),Parks,33.970894,-118.322173,90043
+Martin J. Bogdanovich Park,Parks,33.72958041,-118.3194325,90732
+San Pedro Welcome Park,Parks,33.746055,-118.292652,90731
+Vista del Mar Park,Parks,33.944558,-118.441713,90293
+Richard Alatorre Park,Parks,34.143976,-118.184218,90041
+Highland Park,Parks,34.113477,-118.187954,90042
+Titmouse Park,Parks,33.96105353,-118.4460138,90293
+Tommy Lasorda's Field of Dreams,Parks,34.090671,-118.259926,90039
+Holleigh Bernson Memorial Park,Parks,34.293003,-118.571202,91326
+Silver Lake Meadows Park,Parks,34.098621,-118.261095,90039
+Downey Park,Parks,34.071162,-118.223432,90031
+Los Angeles Plaza Park,Parks,34.05692598,-118.2385958,90012
+Elysian Park,Parks,34.079411,-118.235668,90012
+Stoner Park,Parks,34.03844736,-118.4532902,90025
+Moonshine Canyon Park,Parks,34.288216,-118.566046,91326
+Ken Malloy Harbor Regional Park,Parks,33.787682,-118.295031,90710
+Montecito Heights Park,Parks,34.095544,-118.20335,90031
+Los Angeles High Memorial Park,Parks,34.05657403,-118.3319039,90019
+Robert L. Burns Park,Parks,34.075652,-118.316078,90004
+Roger Jessup Park,Parks,34.25794605,-118.4047298,91331
+Porter Ranch Park,Parks,34.27055336,-118.5552726,91326
+Ascot Hills Park,Parks,34.06969978,-118.1899629,90032
+Lafayette Park,Parks,34.06211618,-118.282875,90057
+Cohasset-Melba Park,Parks,34.20565289,-118.6346313,91307
+Branford Park,Parks,34.23336299,-118.4233033,91331
+Latham Park,Parks,33.99451,-118.25129,90011
+Griffith Park,Parks,34.1182,-118.272105,90027
+North Atwater Park,Parks,34.133398,-118.271813,90039
+Elinor and Don Richardson Family Park,Parks,34.03012939,-118.2958057,90007
+Fehlhaber-Houk Park,Parks,34.240206,-118.273916,91042
+Mount Olympus Park,Parks,34.084669,-118.210822,90031
+Griffith Park - Bette Davis Picnic Area,Parks,34.15857211,-118.2975598,90027
+Henry Alvarez Memorial Park (Ramona Gardens),Parks,34.05881,-118.195184,90033
+Dorothy J. and Benjamin B. Smith Park,Parks,34.10399621,-118.3428203,90028
+Grape Street Pocket Park,Parks,33.938145,-118.236807,90059
+109th Street Park,Parks,33.93664647,-118.2489586,90059
+Devonshire Arleta Park,Parks,34.25780789,-118.443572,91331
+Peck Park,Parks,33.74779038,-118.3091125,90732
+Elysian Park - Bishop Canyon,Parks,34.081707,-118.234692,90012
+Alizondo Drive Park,Parks,34.15100013,-118.6048001,91367
+Devonwood Park,Parks,34.25638115,-118.4541937,91345
+Van Ness Park,Parks,33.99082417,-118.319119,90043
+Vineyard Park,Parks,34.02828057,-118.34653,90016
+Brand Park,Parks,34.27269566,-118.4615049,91345
+Stonehurst Park,Parks,34.24945616,-118.3748623,91352
+Taxco Trails Park,Parks,34.21202182,-118.6383285,91304
+Hubert H. Humphrey Memorial Park,Parks,34.28181122,-118.4074686,91331
+York Boulevard Pocket Park,Parks,34.121388,-118.207218,90042
+Green Meadows Park,Parks,33.95568832,-118.2672316,90003
+Vermont Square,Parks,34.0005829,-118.2971828,90037
+Shatto Park,Parks,34.067287,-118.289251,90020
+Laurel Grove Park,Parks,34.183069,-118.400733,91606
+Prospect Park,Parks,34.05358,-118.216963,90033
+Tiara Street Park,Parks,34.178441,-118.382361,91601
+Porter Ridge Park,Parks,34.296952,-118.541546,91326
+Sheldon-Arleta / Cesar Chavez Park,Parks,34.227487,-118.40675,91352
+Point Fermin - Wilder's Addition,Parks,33.706143,-118.292091,90731
+South Weddington Park,Parks,34.141995,-118.361734,91604
+Anthony C. Beilenson Park,Parks,34.181624,-118.500922,91316
+James Slauson Park,Parks,33.99462127,-118.2476422,90011
+Algin Sutton Park,Parks,33.957928,-118.286929,90044
+Reseda Park,Parks,34.186754,-118.5345636,91335
+Valencia (Ross) Community Park,Parks,34.04480331,-118.2122865,90033
+Lemon Grove Park,Parks,34.08634611,-118.3046676,90029
+Baldwin Hills Park,Parks,34.02340135,-118.3646015,90016
+Haines Canyon Park,Parks,34.23696,-118.282285,91042
+Lazy J Ranch Park,Parks,34.212086,-118.645669,91304
+Cypress Park,Parks,34.0894357,-118.2255846,90065
+Banning Park,Parks,33.79017637,-118.2562904,90744
+Woodley Avenue Park,Parks,34.18196,-118.483681,91436
+Saint Andrews Park,Parks,33.95973995,-118.3114526,90047
+Carthay Circle Park,Parks,34.061441,-118.367283,90048
+Lou Costello (Hostetter) Park,Parks,34.02048437,-118.2108829,90023
+Canal Park,Parks,33.98476,-118.46656,90291
+Ross Snyder Park,Parks,34.00871681,-118.2473934,90011
+Bee Canyon Park,Parks,34.307658,-118.510653,91344
+Bandini Canyon Park,Parks,33.746395,-118.293041,90731
+Palisades Park (Porter Ranch),Parks,34.293167,-118.55459,91326
+Lexington Avenue Pocket Park,Parks,34.092985,-118.31007,90038
+Ramona Gardens Park,Parks,34.056954,-118.194894,90033
+Saint James Park,Parks,34.03168,-118.27974,90007
+Zelzah Park,Parks,34.28123,-118.524815,91344
+Point Fermin Park,Parks,33.70633171,-118.2929289,90731
+Washington Irving Pocket Park,Parks,34.040104,-118.328586,90018
+Sepulveda Park,Parks,34.23005873,-118.4575623,91405
+Rosecrans Park,Parks,33.8967552,-118.29132,90247
+South L.A. Wetlands Park,Parks,33.993268,-118.265355,90011
+Toberman Park,Parks,34.03912821,-118.2787516,90015
+MacArthur Park,Parks,34.06035058,-118.2770864,90057
+Angeles Mesa Park,Parks,34.00025,-118.32561,90043
+Woodbridge Park,Parks,34.15021183,-118.3764461,91602
+Chatsworth Park North,Parks,34.264439,-118.611196,91311
+Rolland Curtis Park,Parks,34.016615,-118.300007,90037
+Moon Canyon Park,Parks,34.108427,-118.213926,90065
+4916 S. McKinley Avenue Pocket Park,Parks,33.998755,-118.260624,90011
+Leslie N. Shaw Park,Parks,34.025814,-118.319733,90018
+Juntos Park,Parks,34.11830364,-118.2455792,90064
+Garvanza Park,Parks,34.12007,-118.179944,90042
+Westchester Park,Parks,33.959629,-118.415188,90045
+Ritchie Valens Park,Parks,34.265782,-118.439137,91331
+Budd Weiner Park,Parks,34.09794,-118.18389,90032
+105th Street Pocket Park,Parks,33.940919,-118.285253,90044
+San Vicente Mountain Park,Parks,34.128635,-118.513031,90272
+Averill Park,Parks,33.733276,-118.311721,90732
+La Tuna Canyon Park,Parks,34.233146,-118.311337,91352
+City Hall Park,Parks,34.05305,-118.243749,90012
+South Park,Parks,33.99664406,-118.268573,90011
+Sun Valley Park,Parks,34.21844465,-118.3705312,91352
+Louise Park,Parks,34.20016537,-118.5097238,91406
+Panorama City Park,Parks,34.22673102,-118.4413338,91402
+Griffith Park - Park Center,Parks,34.134213,-118.282994,90027
+Norman O. Houston Park,Parks,33.998907,-118.357772,90008
+Madison West Park,Parks,34.079685,-118.288537,90004
+Dearborn Park,Parks,34.23581729,-118.507668,91330
+John Quimby Park,Parks,34.19793,-118.58825,91303
+Wall Street Community Park,Parks,33.959532,-118.271566,90003
+Moorpark Park,Parks,34.15040916,-118.3952028,91604
+Wilmington Park,Parks,33.77313982,-118.2686791,90744
+Harbor City Park,Parks,33.79835488,-118.2993168,90710
+Pershing Square,Parks,34.04856,-118.25348,90012
+North Hollywood Park,Parks,34.1679113,-118.3798722,91601
+Potrero Canyon Park,Parks,34.036613,-118.524027,90272
+Normandie Park,Parks,34.04455488,-118.3001516,90006
+Rinaldi Park,Parks,34.276163,-118.536797,91326
+Hoover-Gage Mini Park,Parks,33.982185,-118.287465,90044
+Ramona Hall Park,Parks,34.09770325,-118.2058522,90065
+Lacy Street Neighborhood Park,Parks,34.082073,-118.220347,90031
+Hollenbeck Park,Parks,34.04136456,-118.2160944,90033
+Little Landers Park,Parks,34.25268,-118.28848,91042
+Strathern Park West,Parks,34.215584,-118.409202,91605
+49th Street Pocket Park,Parks,33.998337,-118.26351,90011
+Lincoln Heights Park,Parks,34.072219,-118.214628,90031
+Rockwood Community Park,Parks,34.0642,-118.262115,90026
+Shadow Ranch Park,Parks,34.19390248,-118.6197081,91307
+Jordan Downs Park,Parks,33.94612146,-118.2365773,90002
+Elysian Park - Chavez Ravine Arboretum,Parks,34.085043,-118.245717,90012
+San Pedro Plaza Park,Parks,33.73512,-118.280257,90731
+Runyon Canyon Park,Parks,34.10530646,-118.3488732,90046
+Mar Vista Park,Parks,34.01785493,-118.4294632,90066
+Gladys Jean Wesson Park,Parks,34.033847,-118.340309,90016
+El Dorado Avenue Park,Parks,34.275965,-118.435744,91340
+Glen Alla Park,Parks,33.984438,-118.431009,90292
+Boyle Heights Sports Center Park,Parks,34.03237744,-118.213784,90023
+Rio De Los Angeles State Park,Parks,34.101135,-118.236579,90065
+Barnsdall Park,Parks,34.10151763,-118.29443,90027
+Oakwood Park,Parks,33.995395,-118.464455,90291
+Bell Canyon Park,Parks,34.2067715,-118.6678416,91307
+Griffith Park Bond Area,Parks,34.122473,-118.269555,90027
+O'Melveny Park,Parks,34.31333,-118.518577,91344
+El Sereno North Park,Parks,34.097182,-118.16843,90032
+West Adams Heights Park,Parks,34.03883,-118.300475,90007
+Griffith Park - Ferraro Fields,Parks,34.154599,-118.28301,90027
+Mascot Park,Parks,34.041023,-118.341882,90019
+Wilbur-Tampa Park,Parks,34.288965,-118.556836,91326
+Lanark Park,Parks,34.217028,-118.602518,91304
+Wilton Place Park,Parks,34.052376,-118.314667,90019
+Central Avenue Pocket Park,Parks,34.006792,-118.256194,90011
+Griffith Park - Bird Sanctuary,Parks,34.123792,-118.297042,90027
+Carey Ranch Park,Parks,34.287493,-118.460485,91342
+North Hills Community Park,Parks,34.22955014,-118.4661577,91343
+State Street Park,Parks,34.05296422,-118.2132892,90033
+Elysian Park - Buena Vista Meadow Picnic Area,Parks,34.076408,-118.227999,90012
+Wilacre Park,Parks,34.12913311,-118.4070074,91604
+Sunland Park,Parks,34.25987785,-118.3220099,91040
+Hermon / Arroyo Seco Park,Parks,34.104402,-118.187327,90042
+Alvarado Terrace Park,Parks,34.04498,-118.28112,90006
+61st Street Pocket Park,Parks,33.984504,-118.272468,90003
+Rosewood Gardens,Parks,34.080368,-118.361288,90036
+Temescal Canyon Park,Parks,34.0358,-118.53528,90272
+Griffith Park - Cedar Grove,Parks,34.120101,-118.282408,90027
+Silver Lake Park,Parks,34.092833,-118.266803,90026
+Palisades Park (Pacific Palisades),Parks,34.033972,-118.529454,90272
+Martin Luther King Junior Park,Parks,34.01394464,-118.3087893,90062
+Hansen Dam Park,Parks,34.273758,-118.383484,91342
+Rose Hill Park,Parks,34.091016,-118.192926,90032
+El Escorpion Park,Parks,34.20229,-118.668691,91307
+Valley Village Park,Parks,34.161677,-118.382347,91601
+Teichman Family Magnolia Park,Parks,34.164843,-118.468716,91411
+Knapp Ranch Park West,Parks,34.186361,-118.665968,91307
+Pasko Park,Parks,34.24915,-118.298354,91042
+Vernon Branch Library Pocket Park,Parks,34.002885,-118.256336,90011
+Rustic Canyon Park,Parks,34.068454,-118.510444,90049
+Griffith Park - Lake Hollywood Park,Parks,34.126773,-118.326239,90027
+Coldwater Canyon Park,Parks,34.12913311,-118.4070074,91604
+Alma Park,Parks,33.725084,-118.296822,90731
+Wabash Recreation Center - Public Computer Center,Public Computer Centers,34.05070789,-118.1981928,90033
+David M. Gonzales / Pacoima Recreation Center - Public Computer Center,Public Computer Centers,34.26921299,-118.4130658,91331
+Eagle Rock Youth Center - Public Computer Center,Public Computer Centers,34.14363983,-118.1882212,90041
+James Slauson Recreation Center - Public Computer Center,Public Computer Centers,33.99462127,-118.2476422,90011
+Mason Youth Center - Public Computer Center,Public Computer Centers,34.26154428,-118.5798211,91311
+Poinsettia Recreation Center - Public Computer Center,Public Computer Centers,34.087752,-118.350031,90046
+Tarzana Youth Center - Public Computer Center,Public Computer Centers,34.17477558,-118.5514596,91356
+Jackie Tatum / Harvard Recreation Center - Public Computer Center,Public Computer Centers,33.93857,-118.303829,90047
+Martin Luther King Jr. Recreation Center - Public Computer Center,Public Computer Centers,34.01394464,-118.3087893,90062
+Wilmington Recreation Center - Public Computer Center,Public Computer Centers,33.77313982,-118.2686791,90744
+Ritchie Valens Recreation Center - Public Computer Center,Public Computer Centers,34.265818,-118.438725,91331
+Evergreen Youth Center - Public Computer Center,Public Computer Centers,34.038819,-118.204026,90033
+Canoga Park Senior Center - Public Computer Center,Public Computer Centers,34.20369,-118.602517,91303
+Green Meadows Recreation Center - Public Computer Center,Public Computer Centers,33.95568832,-118.2672316,90003
+Trinity Recreation Center - Public Computer Center,Public Computer Centers,34.023914,-118.262876,90011
+Vineyard Recreation Center - Public Computer Center,Public Computer Centers,34.02828057,-118.34653,90016
+Felicia Mahood Senior Multipurpose Center - Public Computer Center,Public Computer Centers,34.045637,-118.449914,90025
+Ramona Gardens Recreation Center - Public Computer Center,Public Computer Centers,34.056954,-118.194894,90033
+Lanark Recreation Center - Public Computer Center,Public Computer Centers,34.21743314,-118.6038772,91304
+Penmar Youth Center - Public Computer Center,Public Computer Centers,34.00618864,-118.455831,90291
+Winnetka Recreation Center - Public Computer Center,Public Computer Centers,34.222383,-118.571596,91306
+Harbor City Recreation Center - Public Computer Center,Public Computer Centers,33.799469,-118.299536,90710
+Lincoln Park Recreation Center - Public Computer Center,Public Computer Centers,34.0661,-118.199196,90031
+Denker Recreation Center - Public Computer Center,Public Computer Centers,34.02355276,-118.3045149,90018
+Lemon Grove Recreation Center - Public Computer Center,Public Computer Centers,34.08634611,-118.3046676,90029
+Ramon D. Garcia Msgr. Recreation Center - Public Computer Center,Public Computer Centers,34.027534,-118.206502,90023
+Yucca Park Community Center - Public Computer Center,Public Computer Centers,34.10331572,-118.3355345,90028
+Central Park Recreation Center - Public Computer Center,Public Computer Centers,34.020754,-118.251107,90011
+Mount Carmel Recreation Center - Public Computer Center,Public Computer Centers,33.975985,-118.28763,90044
+Ross Snyder Recreation Center - Public Computer Center,Public Computer Centers,34.00871681,-118.2473934,90011
+Elysian Valley Recreation Center - Public Computer Center,Public Computer Centers,34.09889273,-118.24518,90039
+Sun Valley Recreation Center - Public Computer Center,Public Computer Centers,34.218089,-118.371541,91352
+Glassell Park Senior Citizen Center - Public Computer Center,Public Computer Centers,34.117633,-118.232272,90063
+Rancho Cienega - Ira C. Massey Youth Center - Public Computer Center,Public Computer Centers,34.02235,-118.350784,90016
+Victory Valley Youth Center - Public Computer Center,Public Computer Centers,34.18758094,-118.3998795,91606
+Griffith Park Adult Community Center - Public Computer Center,Public Computer Centers,34.114167,-118.26892,90027
+William Nickerson Gardens Recreation Center - Public Computer Center,Public Computer Centers,33.932182,-118.247169,90059
+Robertson Recreation Youth Center - Public Computer Center,Public Computer Centers,34.049457,-118.384807,90035
+Lou Costello (Hostetter) Recreation Center - Public Computer Center,Public Computer Centers,34.02048437,-118.2108829,90023
+Algin Sutton Recreation Center - Public Computer Center,Public Computer Centers,33.957778,-118.285546,90044
+Watts Senior Citizen Center - Public Computer Center,Public Computer Centers,33.94634,-118.24394,90002
+Normandale Recreation Center - Public Computer Center,Public Computer Centers,33.82313579,-118.301425,90501
+Hubert H. Humphrey Youth Center - Public Computer Center,Public Computer Centers,34.28181122,-118.4074686,91331
+Hubert H. Humphrey Recreation Center - Public Computer Center,Public Computer Centers,34.28181122,-118.4074686,91331
+Peck Park Youth Center - Public Computer Center,Public Computer Centers,33.749759,-118.306733,90732
+EXPO Center / Roy A. Anderson Recreation Center - Public Computer Center,Public Computer Centers,34.01201674,-118.2901009,90037
+Fairfax Senior Citizen Center - Public Computer Center,Public Computer Centers,34.084022,-118.362491,90046
+Oakwood Recreation Center - Public Computer Center,Public Computer Centers,33.99447842,-118.4635489,90291
+Northridge Recreation Center - Public Computer Center,Public Computer Centers,34.25529,-118.53226,91324
+Banning Recreation Center - Public Computer Center,Public Computer Centers,33.79017637,-118.2562904,90744
+South Park Recreation Center - Public Computer Center,Public Computer Centers,33.997417,-118.267651,90011
+Imperial Courts Recreation Center - Public Computer Center,Public Computer Centers,33.93125654,-118.2324199,90059
+Highland Park Recreation Center - Public Computer Center,Public Computer Centers,34.113209,-118.187806,90042
+Loren Miller Youth Center - Public Computer Center,Public Computer Centers,34.03026082,-118.3030305,90018
+Toberman Recreation Center - Public Computer Center,Public Computer Centers,34.03912821,-118.2787516,90015
+Valley Plaza Recreation Center - Public Computer Center,Public Computer Centers,34.19200843,-118.4008938,91606
+Saint Andrews Recreation Center - Public Computer Center,Public Computer Centers,33.95882144,-118.3112791,90047
+Downey Youth Center - Public Computer Center,Public Computer Centers,34.070938,-118.222326,90031
+Cypress Recreation Center - Public Computer Center,Public Computer Centers,34.0894357,-118.2255846,90065
+Jordan Downs Recreation Center - Public Computer Center,Public Computer Centers,33.94612146,-118.2365773,90002
+Rancho Cienega Sports Center - Public Computer Center,Public Computer Centers,34.022242,-118.351645,90016
+Glassell Park Youth Center -  Public Computer Center,Public Computer Centers,34.11484802,-118.233719,90065
+Van Nuys Recreation Center - Public Computer Center,Public Computer Centers,34.19405925,-118.4446325,91405
+Sepulveda Recreation Center - Public Computer Center,Public Computer Centers,34.23005873,-118.4575623,91405
+Van Ness Recreation Center - Public Computer Center,Public Computer Centers,33.99082417,-118.319119,90043
+EXPO Center / Ahmanson Senior Citizen Center - Public Computer Center,Public Computer Centers,34.011553,-118.289849,90037
+Sylmar Park Recreation Center - Public Computer Center,Public Computer Centers,34.309198,-118.446384,91342
+South Seas House - Public Computer Center,Public Computer Centers,34.03499817,-118.3179553,90018
+Echo Park Youth Center - Public Computer Center,Public Computer Centers,34.068302,-118.258827,90026
+Pan Pacific Senior Activity Center - Public Computer Center,Public Computer Centers,34.072251,-118.353683,90036
+MacArthur Park Community Center - Public Computer Center,Public Computer Centers,34.060233,-118.277016,90057
+Delano Recreation Center - Public Computer Center,Public Computer Centers,34.182032,-118.46247,91411
+Seoul International Recreation Center - Public Computer Center,Public Computer Centers,34.05435479,-118.3016258,90006
+Jim Gilliam Recreation Center - Public Computer Center,Public Computer Centers,34.01227,-118.352773,90008
+Pecan Recreation Center - Public Computer Center,Public Computer Centers,34.04652101,-118.2220261,90033
+Claude Pepper Senior Citizen Center - Public Computer Center,Public Computer Centers,34.045254,-118.376364,90035
+James Slauson Recreation Center,Recreation Centers,33.994156,-118.247682,90011
+Sepulveda Sports Complex,Recreation Centers,34.183495,-118.502762,91316
+Palisades Recreation Center,Recreation Centers,34.042429,-118.524614,90272
+Penmar Youth Center,Recreation Centers,34.00618864,-118.455831,90291
+Barrington Recreation Center,Recreation Centers,34.06137723,-118.4686951,90049
+Cheviot Hills Recreation Center,Recreation Centers,34.046898,-118.408263,90064
+Rancho Cienega Sports Complex,Recreation Centers,34.022242,-118.351645,90016
+Crestwood Hills Recreation Center,Recreation Centers,34.07661042,-118.4889191,90049
+Yucca Park Community Center,Recreation Centers,34.10331572,-118.3355345,90028
+Denker Recreation Center,Recreation Centers,34.02355276,-118.3045149,90018
+Ralph C. Daniels Field Sports Center,Recreation Centers,33.73320205,-118.2955729,90731
+Tarzana Recreation Center,Recreation Centers,34.17462734,-118.5502669,91356
+Sunland Recreation Center,Recreation Centers,34.25987785,-118.32201,91040
+Montecito Heights Recreation Center,Recreation Centers,34.095544,-118.20335,90031
+Cabrillo Beach Bathhouse,Recreation Centers,33.709914,-118.283767,90731
+Victory Valley Youth Center,Recreation Centers,34.18758094,-118.3998795,91606
+Poinsettia Recreation Center,Recreation Centers,34.087752,-118.350031,90046
+Branford Recreation Center,Recreation Centers,34.23337931,-118.4232809,91331
+Hubert H. Humphrey Recreation Center,Recreation Centers,34.28181122,-118.4074686,91331
+Imperial Courts Recreation Center,Recreation Centers,33.93125654,-118.2324199,90059
+El Sereno Recreation Center,Recreation Centers,34.075694,-118.1815698,90032
+Yosemite Recreation Center,Recreation Centers,34.13344093,-118.2080976,90041
+Jordan Downs Recreation Center,Recreation Centers,33.94612146,-118.2365773,90002
+Rose Hill Recreation Center,Recreation Centers,34.08582337,-118.1898844,90032
+Westwood Recreation Complex,Recreation Centers,34.053472,-118.44793,90025
+East Wilmington Greenbelt Community Center,Recreation Centers,33.78265654,-118.2503383,90744
+Queen Anne Recreation Center,Recreation Centers,34.05036819,-118.3329434,90019
+Metro/Pacific Municipal Sports,Recreation Centers,34.13325553,-118.2728568,90039
+Shatto Recreation Center,Recreation Centers,34.067447,-118.289338,90020
+Gilbert W. Lindsay Recreation Center,Recreation Centers,34.00661929,-118.2677641,90011
+Chatsworth Park South Recreation Center,Recreation Centers,34.25791374,-118.6149639,91311
+Chevy Chase Recreation Center,Recreation Centers,34.133432,-118.266546,90039
+Fernangeles Recreation Center,Recreation Centers,34.229345,-118.400978,91352
+Pecan Recreation Center,Recreation Centers,34.04652101,-118.2220261,90033
+Ross Snyder Recreation Center,Recreation Centers,34.00871681,-118.2473934,90011
+Mason  Youth Center,Recreation Centers,34.26154428,-118.5798211,91311
+Cypress Recreation Center,Recreation Centers,34.0894357,-118.2255846,90065
+Sherman Oaks Castle Park,Recreation Centers,34.16115111,-118.4664309,91403
+Echo Park Recreation Center,Recreation Centers,34.069801,-118.260119,90026
+Oakwood Recreation Center,Recreation Centers,33.99447842,-118.4635489,90291
+Valley Plaza Recreation Center,Recreation Centers,34.19200843,-118.4008938,91606
+Ritchie Valens Recreation Center,Recreation Centers,34.265818,-118.438725,91331
+Seoul International Recreation Center,Recreation Centers,34.05435479,-118.3016258,90006
+Panorama City Recreation Center,Recreation Centers,34.22673102,-118.4413338,91402
+Peck Park Community Center,Recreation Centers,33.749759,-118.306733,90732
+North Weddington Park Community Center,Recreation Centers,34.145768,-118.36709,91602
+Sepulveda Recreation Center,Recreation Centers,34.23005873,-118.4575623,91405
+Hoover Recreation Center,Recreation Centers,34.03273559,-118.2830944,90007
+Silver Lake Recreation Center,Recreation Centers,34.09250232,-118.2668935,90026
+Wabash Recreation Center,Recreation Centers,34.05070789,-118.1981928,90033
+Palms Youth Center,Recreation Centers,34.03335767,-118.418118,90064
+Fred Roberts Recreation Center,Recreation Centers,34.000886,-118.24401,90011
+Victory - Vineland Recreation Center,Recreation Centers,34.18685414,-118.3729476,91606
+Lincoln Heights Youth Center,Recreation Centers,34.075537,-118.211513,90031
+Lou Costello (Hostetter) Recreation Center,Recreation Centers,34.02048437,-118.2108829,90023
+Carlin G. Smith Recreation Center,Recreation Centers,34.10201827,-118.2110915,90065
+David M. Gonzales / Pacoima Recreation Center,Recreation Centers,34.26921299,-118.4130658,91331
+Eagle Rock Recreation Center,Recreation Centers,34.142988,-118.18805,90041
+Martin J. Bogdanovich Recreation Center,Recreation Centers,33.730086,-118.319877,90732
+Mason Recreation Center,Recreation Centers,34.261179,-118.579392,91311
+Boyle Heights Sports Center,Recreation Centers,34.03237744,-118.213784,90023
+Trinity Recreation Center,Recreation Centers,34.024201,-118.263067,90011
+Van Nuys  Sherman Oaks Recreation Center,Recreation Centers,34.15952933,-118.4425227,91423
+Elysian Park Recreation Center,Recreation Centers,34.081153,-118.237908,90012
+Woodland Hills Recreation Center,Recreation Centers,34.17704227,-118.6144423,91367
+Echo Park Community Center,Recreation Centers,34.06545,-118.259304,90026
+Vineyard Recreation Center,Recreation Centers,34.02828057,-118.34653,90016
+Winnetka Recreation Center,Recreation Centers,34.222383,-118.571596,91306
+Downey Recreation Center,Recreation Centers,34.071162,-118.223432,90031
+Lincoln Park Recreation Center,Recreation Centers,34.065824,-118.198986,90031
+William Nickerson Gardens Recreation Center,Recreation Centers,33.932182,-118.247169,90059
+Jim Gilliam Recreation Center,Recreation Centers,34.01227,-118.352773,90008
+Encino Community Center,Recreation Centers,34.16039633,-118.5013526,91316
+Hollenbeck Recreation Center,Recreation Centers,34.04136456,-118.2160944,90033
+Loren Miller Recreation Center,Recreation Centers,34.03026082,-118.3030305,90018
+Green Meadows Recreation Center,Recreation Centers,33.95568832,-118.2672316,90003
+Banning Recreation Center,Recreation Centers,33.79017637,-118.2562904,90744
+Normandie Recreation Center,Recreation Centers,34.04464,-118.299791,90006
+Devonshire House,Recreation Centers,34.2570751,-118.5444962,91324
+Normandale Recreation Center,Recreation Centers,33.82313579,-118.301425,90501
+EXPO Center / Roy A. Anderson Recreation Center,Recreation Centers,34.01201674,-118.2901009,90037
+Sepulveda Dam Recreation Area,Recreation Centers,34.17225492,-118.5028645,91316
+South Seas House,Recreation Centers,34.03499817,-118.3179553,90018
+Rosecrans Recreation Center,Recreation Centers,33.896619,-118.290531,90247
+Lake Street Community Center,Recreation Centers,34.06874703,-118.270384,90057
+Andres and Maria Cardenas Recreation Center,Recreation Centers,34.215049,-118.454568,91402
+Evergreen Recreation Center,Recreation Centers,34.038954,-118.203476,90033
+109th Street Recreation Center,Recreation Centers,33.93664647,-118.2489586,90059
+Lemon Grove Recreation Center,Recreation Centers,34.08634611,-118.3046676,90029
+Reseda Recreation Center,Recreation Centers,34.186871,-118.533699,91335
+Studio City Recreation Center (Beeman Park),Recreation Centers,34.15137297,-118.4079843,91604
+Stoner Recreation Center,Recreation Centers,34.03844736,-118.4532902,90025
+Balboa Sports Complex,Recreation Centers,34.178258,-118.504694,91316
+Baldwin Hills Recreation Center,Recreation Centers,34.024067,-118.364103,90016
+Sun Valley Recreation Center,Recreation Centers,34.218089,-118.371541,91352
+Toberman Recreation Center,Recreation Centers,34.03912821,-118.2787516,90015
+Ramona Gardens Recreation Center,Recreation Centers,34.056954,-118.194894,90033
+Northridge Recreation Center,Recreation Centers,34.25529,-118.53226,91324
+Jackie Tatum / Harvard Recreation Center,Recreation Centers,33.93857,-118.303829,90047
+Penmar Recreation Center,Recreation Centers,34.006428,-118.45547,90291
+Delano Recreation Center,Recreation Centers,34.182032,-118.46247,91411
+South Park Recreation Center,Recreation Centers,33.997417,-118.267651,90011
+Rancho Cienega - Ira C. Massey Youth Center,Recreation Centers,34.02235,-118.350784,90016
+Ramon D. Garcia Msgr. Recreation Center,Recreation Centers,34.027534,-118.206502,90023
+Ramona Hall Community Center,Recreation Centers,34.097865,-118.205115,90065
+Elysian Valley Recreation Center,Recreation Centers,34.099148,-118.245058,90039
+Rustic Canyon Recreation Center,Recreation Centers,34.037817,-118.51479,90402
+Alpine Recreation Center,Recreation Centers,34.06372912,-118.240742,90012
+Van Nuys Recreation Center,Recreation Centers,34.19405925,-118.4446325,91405
+Glassell Park Recreation Center,Recreation Centers,34.116158,-118.233593,90065
+Algin Sutton Recreation Center,Recreation Centers,33.957778,-118.285546,90044
+Palms Recreation Center,Recreation Centers,34.03286932,-118.4177271,90064
+North Hollywood Recreation Center,Recreation Centers,34.16762,-118.379952,91601
+Highland Park Recreation Center,Recreation Centers,34.113209,-118.187806,90042
+EXPO Center / Ralph M. Parsons Preschool,Recreation Centers,34.0116,-118.288775,90037
+Hazard Recreation Center,Recreation Centers,34.060295,-118.200702,90033
+Hollywood Recreation Center,Recreation Centers,34.091656,-118.329641,90038
+Bradley-Milken Youth And Family Center,Recreation Centers,33.945785,-118.24107,90002
+Culver Slauson Recreation Center,Recreation Centers,33.993614,-118.406907,90230
+Sepulveda Basin / Hjelte Sports Center,Recreation Centers,34.16712,-118.484884,91436
+Evergreen Youth Center,Recreation Centers,34.038819,-118.204026,90033
+Venice Recreation Center,Recreation Centers,33.98570187,-118.4726212,90291
+Mount Carmel Recreation Center,Recreation Centers,33.975985,-118.287763,90044
+Saint Andrews Recreation Center,Recreation Centers,33.95882144,-118.3112791,90047
+Bellevue Recreation Center,Recreation Centers,34.084023,-118.282906,90026
+Lincoln Heights Recreation Center,Recreation Centers,34.072219,-118.214628,90031
+Westchester Recreation Center,Recreation Centers,33.95956137,-118.4138213,90045
+Sylmar Park Recreation Center,Recreation Centers,34.309198,-118.446384,91342
+Granada Hills Recreation Center,Recreation Centers,34.263689,-118.496732,91344
+State Street Recreation Center,Recreation Centers,34.053064,-118.212879,90033
+Harbor City Recreation Center,Recreation Centers,33.798111,-118.29922,90710
+Echo Park Youth Center,Recreation Centers,34.068302,-118.258827,90026
+Glassell Park Youth Center,Recreation Centers,34.11484802,-118.233719,90065
+Jim Gilliam Child Care Center,Recreation Centers,34.01227,-118.352773,90008
+Shadow Ranch Recreation Center,Recreation Centers,34.194561,-118.619869,91307
+Venice Beach Recreation Area,Recreation Centers,33.985826,-118.472771,90291
+Lanark Recreation Center,Recreation Centers,34.21743314,-118.6038772,91304
+LACES (Los Angeles Center for Enriched Studies),Recreation Centers,34.04361628,-118.3714542,90035
+Robertson Recreation Center,Recreation Centers,34.0492868,-118.3847196,90035
+MacArthur Park Community Center,Recreation Centers,34.060233,-118.277016,90057
+Robertson Youth Center,Recreation Centers,34.049457,-118.384807,90035
+Pan Pacific Park Recreation Complex,Recreation Centers,34.07487935,-118.3549473,90036
+Lake View Terrace Recreation Center,Recreation Centers,34.275171,-118.37098,91342
+Downey Youth Center,Recreation Centers,34.070938,-118.222326,90031
+Stonehurst Recreation Center,Recreation Centers,34.24945616,-118.3748623,91352
+Van Ness Recreation Center,Recreation Centers,33.99082417,-118.319119,90043
+Lafayette Community Center,Recreation Centers,34.06211618,-118.282875,90057
+South Los Angeles Sports Activity Center,Recreation Centers,33.976134,-118.282328,90003
+Barnsdall Art Center,Recreation Centers,34.10151763,-118.29443,90027
+Wilmington Recreation Center,Recreation Centers,33.77313982,-118.2686791,90744
+Algin Sutton Youth Center,Recreation Centers,33.957778,-118.285546,90044
+Martin Luther King Jr. Recreation Center,Recreation Centers,34.01394464,-118.3087893,90062
+Central Park Recreation Center,Recreation Centers,34.020754,-118.251107,90011
+Peck Park Youth Center,Recreation Centers,33.749759,-118.306733,90732
+Eagle Rock Youth Center,Recreation Centers,34.14363983,-118.1882212,90041
+Mar Vista Recreation Center,Recreation Centers,34.017986,-118.428674,90066
+Encino Women's Club,Rental Facilities,34.160398,-118.501849,91316
+Elysian Park - Grace E. Simons Lodge,Rental Facilities,34.086566,-118.245386,90012
+Friendship Auditorium,Rental Facilities,34.114185,-118.268981,90027
+Fairfax Senior Citizen Center,Senior Centers,34.084022,-118.362491,90046
+Van Nuys Multipurpose Senior Citizen Center (Bernardi Center),Senior Centers,34.18928127,-118.4464449,91401
+Anderson Memorial Senior Citizen Center,Senior Centers,33.736593,-118.285441,90731
+Canoga Park Senior Citizen Center,Senior Centers,34.20369,-118.602517,91303
+Highland Adult Center,Senior Centers,34.11389422,-118.1857243,90042
+El Sereno Senior Citizen Center,Senior Centers,34.075035,-118.179899,90032
+Robert Wilkinson Multipurpose Senior Citizen Center,Senior Centers,34.233362,-118.548728,91324
+Montecito Heights Senior Citizen Center,Senior Centers,34.095856,-118.202986,90031
+North Hollywood Multipurpose Center (Tiara Street Park),Senior Centers,34.178441,-118.382361,91601
+Mid-Valley Senior Citizen Center (Sepulveda Recreation Center),Senior Centers,34.23019158,-118.4576638,91402
+Las Palmas Senior Citizen Center,Senior Centers,34.104627,-118.336186,90028
+Banning / Wilmington Multipurpose Senior Citizen Center,Senior Centers,33.79123647,-118.2564546,90744
+Lincoln Heights Senior Citizen Center,Senior Centers,34.0725759,-118.2145078,90031
+Felicia Mahood Senior Multipurpose Center,Senior Centers,34.045637,-118.449914,90025
+North Hollywood Senior Citizen Center,Senior Centers,34.167755,-118.379341,91601
+Sherman Oaks / East Valley Adult Center,Senior Centers,34.16255132,-118.4486914,91423
+Mid-Valley Intergenerational Multipurpose Center,Senior Centers,34.243875,-118.449113,91402
+Claude Pepper Senior Citizen Center,Senior Centers,34.045157,-118.376682,90035
+Vineyard Senior Citizen Center,Senior Centers,34.02828057,-118.34653,90016
+Westminster Senior Citizen Center,Senior Centers,33.989939,-118.473588,90291
+Sunland Senior Citizen Center,Senior Centers,34.26116,-118.321488,91040
+Mount Carmel Senior Citizen Center,Senior Centers,33.97586797,-118.2825128,90003
+EXPO Center / Ahmanson Senior Citizen Center,Senior Centers,34.011553,-118.289849,90037
+Lou Costello (Hostetter) Senior Citizen Center,Senior Centers,34.020799,-118.210992,90023
+Lincoln Park Senior Citizen Center,Senior Centers,34.0661,-118.199196,90031
+Watts Senior Citizen Center,Senior Centers,33.94634,-118.24394,90002
+Westchester Senior Citizen Center,Senior Centers,33.958727,-118.41738,90045
+Griffith Park Adult Community Center,Senior Centers,34.114167,-118.26892,90027
+Boyle Heights Senior Citizen Center,Senior Centers,34.038982,-118.205488,90033
+Pan Pacific Senior Activity Center,Senior Centers,34.072251,-118.353683,90036
+Glassell Park Senior Citizen Center,Senior Centers,34.117669,-118.232573,90063
+Jim Gilliam Senior Citizen Center,Senior Centers,34.012395,-118.353138,90008
+James Slauson Senior Citizen Center,Senior Centers,33.99462127,-118.2476422,90011
+Betty Hill Senior Citizen Center,Senior Centers,34.023118,-118.304486,90018
+Lake Street Skate Park,Skate Parks,34.06874703,-118.270384,90026
+Stoner Skate Park,Skate Parks,34.03844736,-118.4532902,90025
+Westchester Skate Park,Skate Parks,33.959143,-118.414785,90045
+Lincoln Park Skate Park,Skate Parks,34.06561417,-118.2018369,90031
+Wilmington Skate Park (Ambassador Skate Park),Skate Parks,33.77313982,-118.2686791,90744
+Imperial Courts Skate Park,Skate Parks,33.93125654,-118.2324199,90059
+Hollenbeck Safe Spot Skate Spot,Skate Parks,34.04136456,-118.2160944,90033
+El Sereno Skate Park,Skate Parks,34.075694,-118.1815698,90032
+Sunland Skate Park,Skate Parks,34.25987785,-118.3220099,91040
+Pedlow Skate Park,Skate Parks,34.185931,-118.511611,91316
+Jackie Tatum Skate Plaza,Skate Parks,33.984177,-118.303512,90047
+Venice Skate Park,Skate Parks,33.98570187,-118.4726212,90291
+Hansen Dam Skate Park,Skate Parks,34.273758,-118.383484,91342
+Garvanza Skate Park,Skate Parks,34.12007,-118.179944,90042
+Southeast Valley Roller and Skateboard Park,Skate Parks,34.230966,-118.405579,91352
+Ritchie Valens Skate Park Plaza,Skate Parks,34.26510266,-118.4393469,91331
+Gilbert W. Lindsay Skate Park,Skate Parks,34.00661929,-118.2677641,90011
+Lafayette Skate Park,Skate Parks,34.06211618,-118.282875,90057
+Andres and Maria Cardenas Skate Park,Skate Parks,34.215049,-118.454568,91402
+William Nickerson Gardens Skate Park,Skate Parks,33.932182,-118.246727,90059
+North Hollywood Skate Park,Skate Parks,34.1650083,-118.3799229,91601
+Rancho Cienega Skate Park,Skate Parks,34.02167021,-118.351823,90016
+Lanark Skate Plaza,Skate Parks,34.21743314,-118.6038772,91304
+Pecan Pool,Swimming Pools - Summer,34.04674613,-118.222927,90033
+Granada Hills Pool,Swimming Pools - Summer,34.263706,-118.496758,91344
+Sepulveda Pool,Swimming Pools - Summer,34.22948561,-118.4575623,91402
+Ritchie Valens Pool,Swimming Pools - Summer,34.264476,-118.439407,91331
+Sun Valley Park Pool,Swimming Pools - Summer,34.21815376,-118.3704284,91352
+Lou Costello (Hostetter) Pool,Swimming Pools - Summer,34.020645,-118.211359,90023
+Stoner Park Pool,Swimming Pools - Summer,34.03844736,-118.4532902,90025
+Fernangeles Pool,Swimming Pools - Summer,34.22979391,-118.4018417,91352
+Lanark Pool,Swimming Pools - Summer,34.21556901,-118.6032914,91304
+Jackie Tatum / Harvard Pool,Swimming Pools - Summer,33.98355979,-118.3046124,90047
+Ross Snyder Pool,Swimming Pools - Summer,34.00871681,-118.2473934,90011
+North Hollywood Pool,Swimming Pools - Summer,34.167045,-118.379209,91601
+Green Meadows Pool,Swimming Pools - Summer,33.955848,-118.268284,90003
+Verdugo Hills Pool,Swimming Pools - Summer,34.26296981,-118.3007003,91042
+Reseda Pool,Swimming Pools - Summer,34.186991,-118.534037,91335
+Yosemite Pool,Swimming Pools - Summer,34.133756,-118.208194,90041
+Sylmar Pool,Swimming Pools - Summer,34.30827253,-118.4445011,91342
+Downey Pool,Swimming Pools - Summer,34.071538,-118.223075,90031
+Cheviot Hills Pool,Swimming Pools - Summer,34.04488343,-118.4065309,90064
+Griffith Park Pool,Swimming Pools - Summer,34.116338,-118.27026,90027
+Highland Park Pool,Swimming Pools - Summer,34.112643,-118.188878,90042
+Northridge Pool,Swimming Pools - Summer,34.252801,-118.535649,91324
+Harbor Pool,Swimming Pools - Summer,33.78742375,-118.2819333,90744
+Algin Sutton Pool,Swimming Pools - Summer,33.95731216,-118.2868671,90044
+Rustic Canyon Pool,Swimming Pools - Summer,34.03770624,-118.5145222,90402
+Miguel Contreras Learning Center Pool,Swimming Pools - Summer,34.057959,-118.261637,90017
+Woodland Hills Pool,Swimming Pools - Summer,34.175927,-118.614584,91367
+South Park Pool,Swimming Pools - Summer,33.997435,-118.267884,90011
+Pan Pacific Park Pool,Swimming Pools - Summer,34.072028,-118.353361,90036
+Westchester Pool,Swimming Pools - Summer,33.95735123,-118.4166771,90045
+Mar Vista Pool,Swimming Pools - Summer,34.016834,-118.428747,90066
+Valley Plaza Pool,Swimming Pools - Summer,34.19271262,-118.4009732,91606
+Hansen Dam Aquatic Center,Swimming Pools - Summer,34.270672,-118.389353,91342
+Olguin Pool,Swimming Pools - Summer,33.715364,-118.299732,90731
+Van Nuys Sherman Oaks Pool,Swimming Pools - Year Round,34.15952933,-118.4425227,91423
+Westwood Pool,Swimming Pools - Year Round,34.053294,-118.448343,90025
+Peck Park Pool,Swimming Pools - Year Round,33.749832,-118.30858,90732
+Roosevelt High School Pool,Swimming Pools - Year Round,34.03862927,-118.2115056,90033
+Banning Pool,Swimming Pools - Year Round,33.79223042,-118.2633851,90744
+Richard Alatorre Pool,Swimming Pools - Year Round,34.075694,-118.1815698,90032
+Eleanor Green Roberts Indoor Pool,Swimming Pools - Year Round,34.048485,-118.334609,90019
+LACES (Los Angeles Center for Enriched Studies) Pool,Swimming Pools - Year Round,34.04361628,-118.3714542,90035
+Fremont High School Indoor Pool,Swimming Pools - Year Round,33.97048775,-118.2672221,90003
+EXPO Center / LA 84 / John C. Argue Swim Stadium,Swimming Pools - Year Round,34.012241,-118.290106,90037
+Hubert H. Humphrey Pool,Swimming Pools - Year Round,34.28181122,-118.4074686,91331
+Cleveland High School Indoor Pool,Swimming Pools - Year Round,34.217788,-118.549165,91335
+Echo Park Indoor Pool,Swimming Pools - Year Round,34.064109,-118.259046,90026
+Venice High School Pool,Swimming Pools - Year Round,33.99504487,-118.4445569,90066
+Glassell Park Pool,Swimming Pools - Year Round,34.117004,-118.233037,90065
+Hansen Dam Recreational Lake,Swimming Pools - Year Round,34.270611,-118.389149,91342
+Rancho Cienega - Celes King III Pool,Swimming Pools - Year Round,34.022129,-118.351389,90016
+Griffith Park - Vermont Canyon Tennis Courts,Tennis Courts,34.121019,-118.293574,90027
+Algin Sutton Tennis Courts,Tennis Courts,33.957778,-118.285546,90044
+Branford Tennis Courts,Tennis Courts,34.23304056,-118.4239358,91311
+Ralph C. Daniels Field Tennis Courts,Tennis Courts,33.732934,-118.296371,90731
+Poinsettia Tennis Courts,Tennis Courts,34.088311,-118.348969,90046
+Griffith Park - Riverside Tennis Courts,Tennis Courts,34.116327,-118.270274,90027
+Sycamore Grove Tennis Courts,Tennis Courts,34.101465,-118.201347,90042
+Sepulveda Tennis Courts,Tennis Courts,34.23005873,-118.4575623,91405
+Saint Andrews Tennis Courts,Tennis Courts,33.95973995,-118.3114526,90047
+Panorama City Tennis Courts,Tennis Courts,34.228189,-118.441323,91402
+Northridge Tennis Courts,Tennis Courts,34.25529,-118.53226,91324
+Westwood Tennis Courts,Tennis Courts,34.053422,-118.449,90024
+Ross Snyder Tennis Courts,Tennis Courts,34.00871681,-118.2473934,90011
+Banning Tennis Courts,Tennis Courts,33.790926,-118.256938,90744
+Loren Miller Tennis Courts,Tennis Courts,34.030545,-118.303731,90018
+Mar Vista Tennis Courts,Tennis Courts,34.01785493,-118.4294632,90066
+Sylmar Tennis Courts,Tennis Courts,34.30827253,-118.4445011,91342
+Sunland Tennis Courts,Tennis Courts,34.25987785,-118.3220099,91040
+Peck Park Tennis Courts,Tennis Courts,33.751038,-118.306167,90732
+Studio City Tennis Courts,Tennis Courts,34.15137297,-118.4079843,91604
+Griffith Park - Park Drive Tennis Courts,Tennis Courts,34.133139,-118.282567,90027
+Shatto Tennis Courts,Tennis Courts,34.067287,-118.289251,90020
+Encino Park Tennis Courts,Tennis Courts,34.161489,-118.503031,91316
+Van Ness Tennis Courts,Tennis Courts,33.99082417,-118.319119,90043
+Lafayette Tennis Courts,Tennis Courts,34.061193,-118.283801,90057
+Yosemite Tennis Courts,Tennis Courts,34.133742,-118.20819,90041
+Green Meadows Tennis Courts,Tennis Courts,33.956221,-118.268762,90003
+Oakwood Tennis Courts,Tennis Courts,33.994954,-118.463982,90291
+Van Nuys Sherman Oaks Tennis Courts,Tennis Courts,34.159767,-118.444205,91423
+Lake View Terrace Tennis Courts,Tennis Courts,34.27465645,-118.3715831,91342
+Glassell Park Tennis Courts,Tennis Courts,34.115486,-118.234129,90065
+Westchester Tennis Courts,Tennis Courts,33.959629,-118.415188,90045
+Van Nuys Recreation Center Tennis Courts,Tennis Courts,34.19405925,-118.4446325,91405
+Runnymede Tennis Courts,Tennis Courts,34.20585859,-118.5732396,91306
+Montecito Heights Tennis Courts,Tennis Courts,34.09578,-118.204152,90031
+Lanark Tennis Courts,Tennis Courts,34.217028,-118.602518,91304
+Queen Anne Tennis Courts,Tennis Courts,34.051562,-118.332171,90019
+Stoner Tennis Courts,Tennis Courts,34.03844736,-118.4532902,90025
+109th Street Tennis Courts,Tennis Courts,33.93664647,-118.2489586,90059
+Barrington Tennis Courts,Tennis Courts,34.06137723,-118.4686951,90049
+Knapp Ranch Tennis Courts,Tennis Courts,34.189237,-118.658999,91307
+John Quimby Park Tennis Courts,Tennis Courts,34.199133,-118.5877,91306
+Lincoln Park Tennis Courts,Tennis Courts,34.067618,-118.199275,90031
+Rustic Canyon Tennis Courts,Tennis Courts,34.03770624,-118.5145222,90402
+Rancho Cienega - Arthur Ashe Tennis Courts,Tennis Courts,34.02193,-118.34971,90016
+Granada Hills Tennis Courts,Tennis Courts,34.261431,-118.49757,91344
+Ritchie Valens Tennis Courts,Tennis Courts,34.266202,-118.438754,91331
+Hazard Tennis Courts,Tennis Courts,34.06067723,-118.2008547,90033
+North Hollywood Tennis Courts,Tennis Courts,34.166348,-118.379563,91601
+Jackie Tatum / Harvard Tennis Courts,Tennis Courts,33.98334823,-118.303593,90047
+Balboa Tennis Courts,Tennis Courts,34.17234506,-118.5039331,91316
+Woodland Hills Tennis Courts,Tennis Courts,34.175927,-118.614495,91367
+Cheviot Hills Tennis Courts,Tennis Courts,34.044504,-118.406333,90064
+Eagle Rock Tennis Courts,Tennis Courts,34.142774,-118.186455,90041
+Sun Valley Tennis Courts,Tennis Courts,34.21844465,-118.3705312,91352
+Victory - Vineland Tennis Courts,Tennis Courts,34.186926,-118.3727,91606
+El Sereno Tennis Courts,Tennis Courts,34.075723,-118.181788,90032
+Valley Plaza Tennis Courts,Tennis Courts,34.189082,-118.400399,91606
+Reseda Tennis Courts,Tennis Courts,34.187245,-118.533028,91335
+Elysian Park Tennis Courts,Tennis Courts,34.079661,-118.236145,90012
+Jim Gilliam Tennis Courts,Tennis Courts,34.014327,-118.355029,90008
+Hermon / Arroyo Seco Tennis Courts,Tennis Courts,34.104402,-118.187327,90042
+Palisades Tennis Courts,Tennis Courts,34.042087,-118.523909,90272
+Echo Park Tennis Courts,Tennis Courts,34.068609,-118.260597,90026
+South Park Tennis Courts,Tennis Courts,33.99664406,-118.268573,90011
+Glen Alla Park Tennis Courts,Tennis Courts,33.983388,-118.431679,90292
+Penmar Tennis Courts,Tennis Courts,34.007124,-118.456177,90291
+Greek Theatre,Theatre,34.119739,-118.296131,90027
+W. M. Keck Amphitheatre,Theatre,34.011595,-118.289314,90037
+Van Nuys  Sherman Oaks Recreation Center,Universally Accessible Playgrounds,34.15952933,-118.4425227,91423
+Ken Malloy Harbor Regional Park,Universally Accessible Playgrounds,33.787682,-118.295031,90710
+Westchester Recreation Center,Universally Accessible Playgrounds,33.95956137,-118.4138213,90045
+Barry A. Sanders Sports Field,Universally Accessible Playgrounds,34.186672,-118.50107,91316
+Orthopaedic Hospital Universal Access Playground,Universally Accessible Playgrounds,34.027994,-118.273605,90007
+South Park Recreation Center,Universally Accessible Playgrounds,33.997417,-118.267651,90011
+Hazard Recreation Center,Universally Accessible Playgrounds,34.060295,-118.200702,90033
+Hansen Dam Park,Universally Accessible Playgrounds,34.273758,-118.383484,91342
+De Garmo Park,Universally Accessible Playgrounds,34.214719,-118.352383,91352
+Shadow Ranch Park,Universally Accessible Playgrounds,34.19390248,-118.6197081,91307
+Westwood Park - Aidan's Place,Universally Accessible Playgrounds,34.052676,-118.448107,90025
+Stoner Park,Universally Accessible Playgrounds,34.03844736,-118.4532902,90025
+Lake Street Park,Universally Accessible Playgrounds,34.06874703,-118.270384,90057
+Mason Park,Universally Accessible Playgrounds,34.26093639,-118.5796615,91311
+Dearborn Park,Universally Accessible Playgrounds,34.23581729,-118.507668,91330
+Glen Alla Park,Universally Accessible Playgrounds,33.984438,-118.431009,90292
+Rosecrans Park,Universally Accessible Playgrounds,33.8967552,-118.29132,90247
+Martin Luther King Jr. Recreation Center,Universally Accessible Playgrounds,34.01394464,-118.3087893,90062
+Hermon / Arroyo Seco Park,Universally Accessible Playgrounds,34.104402,-118.187327,90042
+Anthony C. Beilenson Park,Universally Accessible Playgrounds,34.181624,-118.500922,91316
+Lincoln Park,Universally Accessible Playgrounds,34.06561417,-118.2018369,90031
+Tobias Avenue Park,Universally Accessible Playgrounds,34.23634,-118.45151,91402
+Ritchie Valens Park,Universally Accessible Playgrounds,34.265782,-118.439137,91331
+Rio De Los Angeles State Park,Universally Accessible Playgrounds,34.101135,-118.236579,90065
+Benny H. Potter West Adams Avenues Memorial Park,Universally Accessible Playgrounds,34.035039,-118.318677,90018
+Jaime Beth Slavin Park,Universally Accessible Playgrounds,34.215402,-118.407169,91605
+Studio City Recreation Center (Beeman Park),Universally Accessible Playgrounds,34.15137297,-118.4079843,91604
+Valley Glen Community Park,Universally Accessible Playgrounds,34.182953,-118.418285,91436
+Wilshire Crest Elementary School Universal Access Playground,Universally Accessible Playgrounds,34.057987,-118.343595,90036
+Griffith Park - Shane's Inspiration Park,Universally Accessible Playgrounds,34.135083,-118.284647,90027
+Westside Neighborhood Park,Universally Accessible Playgrounds,34.029093,-118.36998,90016
+Pan Pacific Park - Renee's Place,Universally Accessible Playgrounds,34.07487935,-118.3549473,90036
+Sycamore Grove Park,Universally Accessible Playgrounds,34.1019,-118.202996,90042
